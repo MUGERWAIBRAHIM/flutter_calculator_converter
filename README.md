@@ -16,7 +16,7 @@ No backend is required — all conversions are handled locally within the Flutte
 ⚙️ Installation
 
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/flutter-calculator-converter.git
+git clone https://github.com/MUGERWAIBRAHIM/flutter-calculator-converter.git
 
 2️⃣ Navigate to project
 cd calc
